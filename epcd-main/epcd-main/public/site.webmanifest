@@ -1,0 +1,21 @@
+{
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "name": "EPCD-React-App",
+    "short_name": "Epcd",
+    "theme_color": "#00A2B8",
+    "background_color": "#00A2B8",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/"
+}
